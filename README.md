@@ -8,3 +8,4 @@
 
 1. index.tsx -> Arquivo obrigatório que irá importar o App.tsx que é onde está a tela principal. Além disso é onde iremos registrar nossas rotas. O arquivo empre é no padrão lower case.
 2. App.tsx -> Arquivo obrigatório que irá importar e utilizar o componente da tela inicial do projeto. Fica na pasta src. 
+3. Tamanho do componente determina se usaremos objeto complexo ou importar o Stylesheet.
